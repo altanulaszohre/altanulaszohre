@@ -8,4 +8,4 @@ My work focuses on the design and evaluation of AI systems, with primary interes
 ---
 
 📧 auzohre@gmail.com  
-🔗 https://www.linkedin.com/in/altanulaszohre/
+🔗 https://www.linkedin.com/in/altanulaszohre
