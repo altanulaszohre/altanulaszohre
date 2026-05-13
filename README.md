@@ -57,18 +57,6 @@ Experimental autonomous and multi-agent AI architectures focused on orchestratio
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,docker,linux,git,fastapi" />
 </p>
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=altanulaszohre&show_icons=true&theme=transparent&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanulaszohre&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 <div align="center">
 
 📧 auzohre@gmail.com  
