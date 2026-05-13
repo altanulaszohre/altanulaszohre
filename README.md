@@ -1,6 +1,6 @@
 <div align="center">
 
-# Altan Ulaş Zöhre
+# Altan Ulas Zohre
 
 ### Computer Engineer | Master’s Student in Computer Engineering at İzmir Institute of Technology
 
